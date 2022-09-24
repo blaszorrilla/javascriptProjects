@@ -2,4 +2,4 @@
 1. Calculadora simple que realiza operaciones aritméticas básicas (suma, resta, multiplicación, división) pulsa el botón = para conocer el resultado y el botón C para resetear la operación y comenzar de nuevo. Link: [Calculadora](http://calculator-javascript.epizy.com/ "Calculadora")
 
 2.  Adivina las palabras: Utiliza el título como referencia para adivinar las palabras. Escribe las letras que creas correcta con tu teclado. Tienes 6 oportunidades para adivinar la palabra correcta, el contador te indicará el número máximo de intentos y señalará las letras equivocadas, si fallas se reinicia el juego. Pulsa el botón "reiniciar" para comenzar de nuevo. Link: [Juega aquí](http://guessingame.epizy.com/ "Juega aquí")
-3. Formulario simple que valida inputs utilizando jquery. Link: [Formulario](http://validation-form.epizy.com "Form")
+3. Formulario simple que valida inputs utilizando jquery. Link: [Formulario](http://validation-form.epizy.com/ "Form")
